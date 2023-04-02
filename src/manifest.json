@@ -1,0 +1,54 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "bee44d66-6bd7-4e34-b04f-4a8add90cd87",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "7d2761b4-8d55-4133-96df-cd75922e2893",
+			"version": [1, 0, 0]
+		}
+	],
+  "subpacks": [
+    {
+      "folder_name": "0",
+      "name": "transparent",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "20",
+      "name": "20%",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "40",
+      "name": "40%",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "60",
+      "name": "60%",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "80",
+      "name": "80%",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "100",
+      "name": "solid",
+      "memory_tier": 0
+    }
+  ]
+  "metadata": {
+    "authors": ["Jonas da Silva"],
+    "license": "GNU AGPLv3",
+    "url": "http://github.com/phoenixr-codes/transparent-pumpkin/",
+  }
+}
