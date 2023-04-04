@@ -24,8 +24,6 @@ If you want to share this work please refer to the
 
 ## TODO
 
-* build script should put the build inside a `build` directory with a version
-* make the build script a python script
 * add better description with links etc
 * add banner
 
