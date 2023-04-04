@@ -21,3 +21,11 @@ The source code of this project is publicly available on the
 [GitHub Repository](https://github.com/phoenixr-codes/transparent-pumpkin/).
 If you want to share this work please refer to the
 [License](https://github.com/phoenixr-codes/transparent-pumpkin/LICENSE).
+
+## TODO
+
+* build script should put the build inside a `build` directory with a version
+* make the build script a python script
+* add better description with links etc
+* add banner
+
