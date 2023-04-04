@@ -7,3 +7,17 @@ barely see anything in the first person view. This add-on fixes this issue by ma
 are able to set the opacity to 0%, 20%, 40%, 60%, 80% or 100% (100% = opaque = vanilla). Most resource packs completely
 disable the pumpkin blur on the skin however it might be a better choice to keep it slightly visible so you cannot forget
 that you are wearing one.
+
+
+## Installation
+
+You can install this add-on on [GitHub](https://github.com/phoenixr-codes/transparent-pumpkin/) or on
+[MCPEDL]().
+
+
+## About this Project
+
+The source code of this project is publicly available on the
+[GitHub Repository](https://github.com/phoenixr-codes/transparent-pumpkin/).
+If you want to share this work please refer to the
+[License](https://github.com/phoenixr-codes/transparent-pumpkin/LICENSE).
