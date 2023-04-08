@@ -14,7 +14,19 @@ that you are wearing one.
 ## Installation
 
 You can install this add-on on [GitHub](https://github.com/phoenixr-codes/transparent-pumpkin/) or on
-[MCPEDL]().
+[MCPEDL](https://mcpedl.com/transparent-pumpkin).
+
+### GitHub
+
+1. On mobile view: scroll down or on desktop view: to the right.
+2. Click on the version you want to download in the "Releases" section.
+3. Click on the "Download" link.
+
+### MCPEDL
+
+1. Visit https://mcpedl.com/transparent-pumpkin.
+2. Scroll down to the download section.
+3. Click on the "Download" link.
 
 
 ## About this Project
@@ -23,9 +35,4 @@ The source code of this project is publicly available on the
 [GitHub Repository](https://github.com/phoenixr-codes/transparent-pumpkin/).
 If you want to share this work please refer to the
 [License](https://github.com/phoenixr-codes/transparent-pumpkin/blob/main/LICENSE).
-
-## TODO
-
-* add better description with links etc
-* add banner
 
