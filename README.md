@@ -1,5 +1,7 @@
 # Transparent Pumpkin
 
+![Banner](transparent-pumpkin-banner.jpg)
+
 Wearing a carved pumpkin on your head makes endermen not react aggressive as soon as you look them in the eyes. This might
 be useful when entering the End, so that a mass of endermen will not attack you. Or maybe you just wear it because it looks
 cool which is especially the case for horror maps or Halloween. However wearing a pumpkin comes with one downside: You can
