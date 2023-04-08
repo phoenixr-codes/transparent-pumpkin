@@ -11,6 +11,18 @@ disable the pumpkin blur on the skin however it might be a better choice to keep
 that you are wearing one.
 
 
+## Changing the Opacity
+
+1. Activate the add-on.
+2. Click on the add-on.
+3. Click on the cogwheel.
+4. Use the slide to adjust the opacity.
+
+> **Note**
+> By default the opacity is set to 100% which is the same as playing without the add-on enabled. **Change the resolution
+> to a lower value**.
+
+
 ## Installation
 
 You can install this add-on on [GitHub](https://github.com/phoenixr-codes/transparent-pumpkin/) or on
