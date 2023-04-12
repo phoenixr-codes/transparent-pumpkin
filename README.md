@@ -49,5 +49,5 @@ You can install this add-on on [GitHub](https://github.com/phoenixr-codes/transp
 The source code of this project is publicly available on the
 [GitHub Repository](https://github.com/phoenixr-codes/transparent-pumpkin/).
 If you want to share this work please refer to the
-[License](https://github.com/phoenixr-codes/transparent-pumpkin/blob/main/LICENSE).
+[license](https://github.com/phoenixr-codes/transparent-pumpkin/blob/main/LICENSE).
 
