@@ -4,14 +4,14 @@
 	"name": "pack.name",
 	"description": "pack.description",
 	"uuid": "24ff6372-5f19-4943-8ed8-d44c1edbdf91",
-	"version": [1, 0, 0],
+	"version": [2, 0, 0],
 	"min_engine_version": [1, 16, 0]
   },
   "modules": [
 	{
 	  "type": "resources",
 	  "uuid": "6946e3fa-1513-459b-90df-c821e5a08c0f",
-	  "version": [1, 0, 0]
+	  "version": [2, 0, 0]
 	}
   ],
   "subpacks": [
@@ -22,27 +22,22 @@
     },
     {
       "folder_name": "20",
-      "name": "20%",
+      "name": "20%% opacity",
       "memory_tier": 0
     },
     {
       "folder_name": "40",
-      "name": "40%",
+      "name": "40%% opacity",
       "memory_tier": 0
     },
     {
       "folder_name": "60",
-      "name": "60%",
+      "name": "60%% opacity",
       "memory_tier": 0
     },
     {
       "folder_name": "80",
-      "name": "80%",
-      "memory_tier": 0
-    },
-    {
-      "folder_name": "100",
-      "name": "opaque",
+      "name": "80%% opacity",
       "memory_tier": 0
     }
   ],
