@@ -22,29 +22,24 @@
     },
     {
       "folder_name": "20",
-      "name": "20%",
+      "name": "20%% opacity",
       "memory_tier": 0
     },
     {
       "folder_name": "40",
-      "name": "40%",
+      "name": "40%% opacity",
       "memory_tier": 0
     },
     {
       "folder_name": "60",
-      "name": "60%",
+      "name": "60%% opacity",
       "memory_tier": 0
     },
     {
       "folder_name": "80",
-      "name": "80%",
+      "name": "80%% opacity",
       "memory_tier": 0
     },
-    {
-      "folder_name": "100",
-      "name": "opaque",
-      "memory_tier": 0
-    }
   ],
   "metadata": {
     "authors": ["Jonas da Silva"],
