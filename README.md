@@ -20,11 +20,6 @@ that you are wearing one.
 3. Click on the cogwheel.
 4. Use the slide to adjust the opacity.
 
-> **Note**
-> 
-> By default the opacity is set to 100% which is the same as playing without the add-on enabled. **Change the resolution
-> to a lower value**.
-
 
 ## Installation
 
