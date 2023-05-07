@@ -8,7 +8,7 @@ cool which is especially the case for horror maps or Halloween. However wearing 
 barely see anything in the first person view.
 
 This add-on fixes this issue by making the pumpkin screen transparent. You
-are able to set the opacity to 0%, 20%, 40%, 60%, 80% or 100% (100% = opaque = vanilla). Most resource packs completely
+are able to set the opacity to 0%, 20%, 40%, 60% or 80%. Most resource packs completely
 disable the pumpkin blur on the skin, however it might be a better choice to keep it slightly visible so you cannot forget
 that you are wearing one.
 
